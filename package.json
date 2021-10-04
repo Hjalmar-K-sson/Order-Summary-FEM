@@ -1,0 +1,11 @@
+{
+  "name": "order-summary-fem",
+  "version": "1.0.0",
+  "description": "order summary project / excercise on FEM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hjalmar-K-sson",
+  "license": "ISC"
+}
